@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+span{
+    font-size: 20px;
+    margin-right: 450px;
+    float: right;
+}
+header{
+ text-decoration-color: antiquewhite;
+ background-color: aquamarine;
+}
+div{
+    font-size: large;
+    font-style: italic;
+}
